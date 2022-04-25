@@ -1,14 +1,27 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.1",
+    "node": "^17.7.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwaisIslam/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OwaisIslam/note-taker/issues"
+  },
+  "homepage": "https://github.com/OwaisIslam/note-taker#readme"
 }
