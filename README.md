@@ -1,9 +1,10 @@
 # Note Taker
 
 ## Description
-
-This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.
+This applications lets a use create, save, and delete notes. 
 
 ## Screenshot
+![Screen Shot 2022-04-24 at 7 50 16 PM](https://user-images.githubusercontent.com/98363909/165004307-9ba256bd-8527-4db6-9043-1c9ad1a7ccfb.png)
 
 ## Application Link
+https://note-taker-tmb.herokuapp.com/
